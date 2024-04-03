@@ -12,5 +12,5 @@ Realized by Henrique D.M.M
 ![Alt text](./demo_images/demo0.png)
 ### Result of a round 
 ![Alt text](./demo_images/demo1.png)
-### Quiting the game
+### Game result when quiting
 ![Alt text](./demo_images/demo2.png)
